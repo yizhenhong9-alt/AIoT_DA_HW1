@@ -1,5 +1,0 @@
-1. Expand the notes from idea.md into a detailed project log named log.md with clear steps, explanations, and code snippets if relevant. Make sure the log is structured, professional, and easy to follow.
-2. Expand log.md into a detailed project report named steps.md in Markdown. Follow CRISP-DM steps: explain objectives, synthetic data, preparation, linear regression modeling with scikit-learn, evaluation with R² and MSE, and deployment via Streamlit/Flask. Add clear explanations, bullet points, and code snippets where useful.
-3. 請幫我根據steps.md完成完整的project，包含README.md、code等
-4. 如何將project上傳至github
-5. 如何結合streamlit
